@@ -8,4 +8,4 @@ Sourse image:
 
 My markup:
 
-![alt tag](https://github.com/ssergienko/css_task/blob/master/origin.jpg)
+![alt tag](https://raw.githubusercontent.com/ssergienko/css_task/master/images/result.png)
